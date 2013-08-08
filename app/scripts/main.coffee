@@ -23,4 +23,4 @@ require.config
 
 require ['jquery', 'd3', 'bubble_graph'], ($, d3, BubbleGraph)->
   $(document).ready ->
-    graph = new BubbleGraph(document.getElementById("visualization"), "data/beervana.csv")
+    window.graph = new BubbleGraph(document.getElementById("visualization"), "data/beervana.csv")

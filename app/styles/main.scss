@@ -34,6 +34,15 @@ $iconSpritePath: '/images/glyphicons-halflings.png';
       fill-opacity: 0.8;
     }
   }
+  g.top_axis, g.bottom_axis{
+    path.domain{
+      fill: none;
+      stroke: none;
+    }
+    g.tick.major line{
+        stroke: #000;
+    }
+  }
 }
 
 a.mb-logo-small{
