@@ -1,236 +1,236 @@
-"brewery","beer_name","abv"
-"8Wired","Superconductor DIPA",8.9
-"8Wired","Hopwired IPA",7.3
-"8Wired","Tall Poppy Red",7
-"8Wired","iStout Imperial Stout",10
-"8Wired","Mighty Imperial Ale",10
-"8Wired","Semiconductor Session IPA",4.4
-"8Wired","Bumaye",16
-"8Wired","Sæson",7
-"8Wired","Grand Cru 2011",11
-"Adnams","Southwold Bitter",4.1
-"Adnams","Broadside (Premium Bitter)",6.3
-"Adnams","Explorer (East Coast Blonde Beer)",5
-"Adnams","Ghost Ship PA",4.5
-"Adnams","Gunhill",4
-"Adnams","InnovaUon IPA",6.7
-"Belgian Specialty","Leffe Blonde",6.5
-"Belgian Specialty","Leffe Brun",6.5
-"Belgian Specialty","Stella Artois",5
-"Belgian Specialty","Hoegaarden",4.8
-"Black Dog","Golden Lab  (Golden Ale)",4.8
-"Black Dog","Chomp (NZ Pale Ale)",4.75
-"Black Dog","Clifford (Red IPA)",6.5
-"Black Dog","Unleashed Citra (APA)",6.25
-"Black Dog","Pango Kuri (American style Stout)",6.2
-"Black Dog","Bite (Pilsner)",5.5
-"Boundary Road Brewery","Einstein Munich Lager",5.3
-"Boundary Road Brewery","Red Baron Red Ale",5.6
-"Boundary Road Brewery","18th Amendment APA",6
-"Boundary Road Brewery","Stolen Base Double IPA",8
-"Boundary Road Brewery","Jack The Sipper London Porter",5.6
-"Boundary Road Brewery","Arabica Dabra Coffee Oat Stout",6.5
-"Brewdog","Punk IPA",5.6
-"Brewdog","Hardcore",9.2
-"Brewdog","5am Saint",5
-"Deep Creek","Dweller on the Threshold",7.3
-"Deep Creek",309,5
-"Deep Creek","Dominatrix",7.8
-"Emerson's","Pilsner",4.9
-"Emerson's","Bookbinder",3.7
-"Emerson's","London Porter",4.9
-"Emerson's","Regional W & S/ EBC Collaboration brew",4.5
-"Emerson's","Brewer's Reserve Bald Eagle",7
-"Emerson's","Brewer's Reserve White Tail",6
-"Emerson's","Brewer's Reserve  Jack of all Trades",4.5
-"Emerson's","Brewer's Reserve Clean Sweep",5.2
-"Emerson's","Dunkel",4.9
-"Emerson's","Bird Dog IPA",6.5
-"Emerson's","Taieri George Spice Ale",6.8
-"Emerson's","JP 2013 Belgian dark ale",8
-"Epic","Epicurean Coffee & Fig Stout 2013",8
-"Epic","Comet IPA",6.3
-"Epic","Armageddon IPA",6.7
-"Epic","Lager",5
-"Epic","Hop Zombie",8.5
-"Epic","Pale Ale",5.4
-"Fork & Brewer","Base Isolator (APA)",6.3
-"Fork & Brewer","Bohemian Hipster (Pilsner)",5
-"Fork & Brewer","Stormchaser (Dunkelweizen)",4.4
-"Founders","1903 Red Ale",5
-"Founders","1946 Pilsner",5.5
-"Founders","1854 Porter",5.2
-"Founders","1981 Pale Ale",2.2
-"Founders","2009 IPA",5.3
-"Founders","1921 Stout",5.5
-"Garage Project","Red Rocks Reserve 2013",7
-"Garage Project","Death From Above",7.5
-"Garage Project","Barrel-aged Cherry Bomb",9
-"Garage Project","Smoke & Mirrors",6.2
-"Garage Project","Sauvin Nouveau",7.8
-"Garage Project","Cockswain's Extraordinary Ordinary",3.4
-"Garage Project","Spezial K",5.1
-"Garage Project Workshop","Hot Buttered Bastard Rye",13
-"Garage Project Workshop","Fire Poker Blended Cockswain's Courage Porter",10.5
-"Garage Project Workshop","Straight Edge",0
-"Good George","Belgian Dubbel",7.5
-"Good George","Sparkling Ale",4.5
-"Good George","Amber Ale",3.7
-"Good George","IPA",5.8
-"Good George","Drop Hop Cider",5
-"Good George","Almost Imperial American IPA",7.5
-"Hancock & Co","Colonial Wheat Ale",4.9
-"Hancock & Co","Grand Pale Ale",4.8
-"Hancock & Co","Cardinal Red Ale",4.4
-"Hancock & Co","Bismarck Brown Ale",4.8
-"Harrington's","The Pig & Whistle Mild Dark Ale",4
-"Harrington's","Brewers' Selection Strong Pilsner (Anvil)",6.5
-"Harrington's","Brewers' Selection Belgium Abbey Tripel",8.8
-"Harrington's","Brewers' Selection Imperial APA",9.5
-"Harrington's","The Rogue Hop Organic Pilsner",5
-"Harrington's","Brewers' Selection IPA",6.5
-"Harrington's","Brewers' Selection Baltic Porter",8.5
-"Harrington's","The Classy Red Extra Special Bitter",5.2
-"Harrington's","The Wobbly Boot Porter",5
-"Harrington's","Brewers' Selection Weizenbock",8.5
-"James Squire","Four Wives (Pilsner)",5
-"James Squire","150 Lashes (PA)",4.7
-"James Squire","Chancer (Golden Ale)",4.5
-"James Squire","Nine Tales (Amber Ale)",5
-"James Squire","Orchard Crush (Cloudy Apple Cider)",4.8
-"Kereru","Silverstream Pale Ale",3.8
-"Kereru","Hop To It Pale Ale",5.9
-"Kereru","Moonless Stout",4.2
-"Kereru","Velvet Boot",8
-"Liberty","Oh Brother (Pale Ale)",5.1
-"Liberty","Yakima Monster (Strong Pale Ale)",6
-"Liberty","Darkest Days (Oatmeal Stout)",6
-"Liberty","Yakima Scarlet (Hoppy Red Ale)",6.9
-"Liberty","Sauvignon Bomb NZ Pale Ale)",7
-"Liberty","Citra (Double India Pale Ale)",9
-"Little Creatures","Pale Ale",5.2
-"Little Creatures","Rogers  (Ale)",3.8
-"Little Creatures","Pilsner",4.6
-"Little Creatures","Bright Ale",4.5
-"Little Creatures","Mr Obadiah (Porter)",6.9
-"Mac's Issacs","Hop Rocker",5
-"Mac's Issacs","Great White",5
-"Mac's Issacs","Sassy Red",4.5
-"Mac's Issacs","Black Mac",4.8
-"Mac's Issacs","Casacde Parade",5.5
-"Mac's Issacs","Apple Cider",5
-"Mac's Issacs","Pear Cider",5
-"Mac's Issacs","Berry Cider",5
-"Mac's Issacs","Steinlager Light",2.5
-"McCashin's- Stoke","Cirrus- Wheat Beer",5
-"McCashin's- Stoke","Paciﬁc Northwest- Double PA",5.7
-"McCashin's- Stoke","Shapeshifter- Doppelbock",9.4
-"McCashin's- Stoke","Cheeky Dark Porter",4.6
-"McCashin's- Stoke","Rochdale Lemon Honey Cider",5
-"McCashin's- Stoke","Arm Twister Imperial Stout",10
-"Monteith's","Ginger & Pear Cider",5.5
-"Monteith's","Heritage Style Cider",5
-"Monteith's","Barrel Aged Porter",6.5
-"Monteith's","India Pale Ale",5.5
-"Monteith's","Alcoholic Ginger Beer",4.5
-"Monteith's","Unﬁltered Apricot Wheat Beer",5
-"Monteith's","Imperial Pilsner",7
-"Monteith's","Double Hopped IPA",7.5
-"Mountain Goat","Hopfweizenbock",4.5
-"Mountain Goat","RIPA- Ye IPA",4.5
-"Mountain Goat","Surefoot Stout",6.2
-"Mountain Goat","Mike's 3rd Nut",6.5
-"Mountain Goat","Organic Steam Ale",5.7
-"Mountain Goat","Hightail Ale",5
-"Mountain Goat","IPA",6
-"Old Mout Cider","Cranberry & Cider",5.8
-"Old Mout Cider","Boysencider ",5.8
-"Old Mout Cider","Feijoa & Cider",5.8
-"Old Mout Cider","Passionfruit & Cider",5.8
-"Old Mout Cider","Pear Scrumpy",8
-"Old Mout Cider","Scrumpy",8
-"Old Mout Cider","Classic Apple",4.5
-"Old Mout Cider","Crafty Pear",4.5
-"Panhead","Port Road Pilsner",5.2
-"Panhead","Quickchange Xtra Pale Ale",4.6
-"Panhead","Supercharger American Styled Pale Ale",5.7
-"Panhead","Black Top Oat Stout",5.5
-"Panhead","Bitchin IPA",7.7
-"ParrotDog","BitterBitch",5.8
-"ParrotDog","Bloodhound",6.3
-"ParrotDog","BloodyDingo",7.7
-"ParrotDog","DeadCanary",5.3
-"ParrotDog","Dogg",3.9
-"ParrotDog","FlaxenFeather",4.7
-"ParrotDog","PitBull",7
-"ParrotDog","Otis",6.3
-"Samuel Adams","Boston Lager",4.9
-"Samuel Adams","Boston Ale",4.8
-"Samuel Adams","Noble Pilsner",4.9
-"Sprig & Fern","Motueka Pilsner",5
-"Sprig & Fern","Berry Cider",4.5
-"Sprig & Fern","Tasman Lager",6.5
-"Sprig & Fern","Best Bitter",5
-"Sprig & Fern","Scotch Ale",6.5
-"Sprig & Fern","Doppelbock",8
-"Tuatara","Pilsner",5
-"Tuatara","Heffe Wheat Beer",5
-"Tuatara","IPA",5
-"Tuatara","NZAPA",5.8
-"Tuatara","Double Trouble US P.A",9
-"Tuatara","Stout",7
-"Zeffer","Dry Apple Cider",5
-"Zeffer","Dry Pear Cider",5
-"Zeffer","Slack MA Girdle Cider",7
-"Baylands Brewery","Red Rye IPA",7
-"Baylands Brewery","ENFORCER Black IPA",6
-"Brew Moon","Hophead IPA",5
-"Brew Moon","Olé Molé",5
-"Cassel amp Sons","Milk Stout",5.3
-"Cassel amp Sons","One P.A.",6.3
-"Croucher","Nuclear Free ANZUS",7
-"Croucher","Vicar's Vice",7
-"Funk Estate","Oh Lordy! Pale Ale",5.9
-"Funk Estate","Funk'nstein Black IPA",7
-"Regent 58","IPA",6.3
-"Regent 59","ESB",5.8
-"The Leigh Brewing Company","Pilsner",4.5
-"The Leigh Brewing Company","12 Gauge Strong Lager",6.5
-"Wigram Brewing","Harvard Honey Ale",6
-"Wigram Brewing","Mustang Pale Ale",5
-"Zeelandt Brewing Co","Kolsch Style",5
-"Zeelandt Brewing Co","Pale Ale ",5
-"Behemoth Brewing","Celia Wade Coffee Brown Ale",5.5
-"Brewaucracy","Smoko",5
-"Dales Brewing","Dale's Belgian Pale Ale",5.4
-"Invercargill Brewery","Pitch Black Stout",4.5
-"MOA","Methode",5
-"Northend Brewing","ESB",5.3
-"Renaissance Brewing","Stonecutter Scotch Ale",7
-"Rocky Knob Brewing","Hen Pecked Wheat",5.4
-"Shunters Yard Brewing","No. 7 Pilsner",5.2
-"Steam Brewing","""Return Of The Grumpy Boyz"" Porter",9
-"Sunshine Brewery","Gisborne Gold",4
-"The Twisted Hop","Hop Back IPA",5.8
-"Three Boys Brewery","Oyster Stout",6.5
-"Two Fingers Beers","Battering Ram-Doppel Alt (Sticke) German style dark ale",6.5
-"Two Thumb Brewing","NZ Pale Ale",5.4
-"Valkyrie Brewing","Freyja (California Common)",6.6
-"Velvet Worm","Eye Of Jupiter",4.8
-"YeasUe Boys","Digital IPA",7
-"Brewcult","Acid Freaks Balsamic Baltic Porter",7.5
-"Bridge Road Brewers","Bling Bling",8.5
-"Bridge Road Brewers","Chevalier Saison",6
-"Burleigh Brewing","HEF",5
-"Feral Brewery","HopHog",5.8
-"Feral Brewery","Boris",11.5
-"Holgate Brewhouse","Holgate Temptress",6
-"Matilda Bay Brewing","Alpha Pale Ale",5.2
-"Moo Brew","Seasonal Stout",8
-"Murrays","Grand Cru",8.8
-"Murrays","Wild Thing",10
-"Nail Brewery","Clout Stout",10.6
-"Stone & Wood Brewing","Paciﬁc Ale",4.4
-"The Monk","Chief",6.1
-"Two Birds","Sunset Ale",4.6
-"Two Birds","Golden Ale",4.4
+"brewery","beer_name","abv","country","style"
+"8Wired","Superconductor DIPA",8.9,"New Zealand","Imperial / Double IPA"
+"8Wired","Hopwired IPA",7.3,"New Zealand","American IPA"
+"8Wired","Tall Poppy Red",7,"New Zealand","American Amber / Red Ale"
+"8Wired","iStout Imperial Stout",10,"New Zealand","Russian Imperial Stout"
+"8Wired","Mighty Imperial Ale",10,"New Zealand","Imperial Pale Ale"
+"8Wired","Semiconductor Session IPA",4.4,"New Zealand","American IPA"
+"8Wired","Bumaye",16,"New Zealand","American Imperial / Double Stout"
+"8Wired","Sæson",7,"New Zealand","Saison / Farmhouse Ale"
+"8Wired","Grand Cru 2011",11,"New Zealand","Belgian Quad"
+"Adnams","Southwold Bitter",4.1,"Great Britain","English Bitter"
+"Adnams","Broadside (Premium Bitter)",6.3,"Great Britain","English Bitter"
+"Adnams","Explorer (East Coast Blonde Beer)",5,"Great Britain","Blonde Ale"
+"Adnams","Ghost Ship PA",4.5,"Great Britain","English Pale Ale"
+"Adnams","Gunhill",4,"Great Britain","English Mild Ale"
+"Adnams","Innovation IPA",6.7,"Great Britain","American IPA"
+"Belgian Specialty","Leffe Blonde",6.5,"Belgium*","Belgian Blonde / Golden"
+"Belgian Specialty","Leffe Brun",6.5,"Belgium*","Belgian Brown Ale"
+"Belgian Specialty","Stella Artois",5,"Belgium*","Euro Lager"
+"Belgian Specialty","Hoegaarden",4.8,"Belgium*","Witbier"
+"Black Dog","Golden Lab  (Golden Ale)",4.8,"New Zealand","Golden Ale"
+"Black Dog","Chomp (NZ Pale Ale)",4.75,"New Zealand","New Zealand Pale Ale"
+"Black Dog","Clifford (Red IPA)",6.5,"New Zealand","American Amber / Red Ale"
+"Black Dog","Unleashed Citra (APA)",6.25,"New Zealand","New Zealand Pale Ale"
+"Black Dog","Pango Kuri (American style Stout)",6.2,"New Zealand","American Stout"
+"Black Dog","Bite (Pilsner)",5.5,"New Zealand","Pilsner"
+"Boundary Road Brewery","Einstein Munich Lager",5.3,"New Zealand","Helles Lager"
+"Boundary Road Brewery","Red Baron Red Ale",5.6,"New Zealand","American Amber / Red Ale"
+"Boundary Road Brewery","18th Amendment APA",6,"New Zealand","American Pale Ale"
+"Boundary Road Brewery","Stolen Base Double IPA",8,"New Zealand","Imperial / Double IPA"
+"Boundary Road Brewery","Jack The Sipper London Porter",5.6,"New Zealand","Porter"
+"Boundary Road Brewery","Arabica Dabra Coffee Oat Stout",6.5,"New Zealand","Oatmeal Stout"
+"Brewdog","Punk IPA",5.6,"Great Britain","American IPA"
+"Brewdog","Hardcore",9.2,"Great Britain","Imperial / Double IPA"
+"Brewdog","5am Saint",5,"Great Britain","American Amber / Red Ale"
+"Deep Creek","Dweller on the Threshold",7.3,"New Zealand","Scotch Ale / Wee Heavy"
+"Deep Creek",309,5,"New Zealand","New Zealand Pale Ale"
+"Deep Creek","Dominatrix",7.8,"New Zealand","Imperial / Double IPA"
+"Emerson's","Pilsner",4.9,"New Zealand","Pilsner"
+"Emerson's","Bookbinder",3.7,"New Zealand","English Bitter"
+"Emerson's","London Porter",4.9,"New Zealand","English Porter"
+"Emerson's","Regional W & S/ EBC Collaboration brew",4.5,"New Zealand",
+"Emerson's","Brewer's Reserve Bald Eagle",7,"New Zealand",
+"Emerson's","Brewer's Reserve White Tail",6,"New Zealand",
+"Emerson's","Brewer's Reserve  Jack of all Trades",4.5,"New Zealand",
+"Emerson's","Brewer's Reserve Clean Sweep",5.2,"New Zealand","American Pale Ale"
+"Emerson's","Dunkel",4.9,"New Zealand","Dunkelweizen"
+"Emerson's","Bird Dog IPA",6.5,"New Zealand","American Pale Ale"
+"Emerson's","Taieri George Spice Ale",6.8,"New Zealand","Herbed/Spiced Beer"
+"Emerson's","JP 2013 Belgian dark ale",8,"New Zealand","Belgian Tripel"
+"Epic","Epicurean Coffee & Fig Stout 2013",8,"New Zealand","Imperial Oatmeal Stout"
+"Epic","Comet IPA",6.3,"New Zealand",
+"Epic","Armageddon IPA",6.7,"New Zealand","American IPA"
+"Epic","Lager",5,"New Zealand","Pale Lager"
+"Epic","Hop Zombie",8.5,"New Zealand","Imperial / Double IPA"
+"Epic","Pale Ale",5.4,"New Zealand","American Pale Ale"
+"Fork & Brewer","Base Isolator (APA)",6.3,"New Zealand","American Pale Ale"
+"Fork & Brewer","Bohemian Hipster (Pilsner)",5,"New Zealand","Pilsner"
+"Fork & Brewer","Stormchaser (Dunkelweizen)",4.4,"New Zealand","Dunkelweizen"
+"Founders","1903 Red Ale",5,"New Zealand","American Amber / Red Ale"
+"Founders","1946 Pilsner",5.5,"New Zealand",
+"Founders","1854 Porter",5.2,"New Zealand",
+"Founders","1981 Pale Ale",2.2,"New Zealand","New Zealand Pale Ale"
+"Founders","2009 IPA",5.3,"New Zealand","Imperial Pale Ale"
+"Founders","1921 Stout",5.5,"New Zealand",
+"Garage Project","Red Rocks Reserve 2013",7,"New Zealand","American Amber / Red Ale"
+"Garage Project","Death From Above",7.5,"New Zealand","American IPA"
+"Garage Project","Barrel-aged Cherry Bomb",9,"New Zealand","Imperial / Double Porter"
+"Garage Project","Smoke & Mirrors",6.2,"New Zealand","Bock"
+"Garage Project","Sauvin Nouveau",7.8,"New Zealand","Pilsner"
+"Garage Project","Cockswain's Extraordinary Ordinary",3.4,"New Zealand","English Bitter"
+"Garage Project","Spezial K",5.1,"New Zealand","Kellerbier / Zwickelbier"
+"Garage Project Workshop","Hot Buttered Bastard Rye",13,"New Zealand","Blonde Ale"
+"Garage Project Workshop","Fire Poker Blended Cockswain's Courage Porter",10.5,"New Zealand","Imperial / Double Porter"
+"Garage Project Workshop","Straight Edge",0,"New Zealand",
+"Good George","Belgian Dubbel",7.5,"New Zealand","Belgian Dubbel"
+"Good George","Sparkling Ale",4.5,"New Zealand","Australian Sparkling Ale"
+"Good George","Amber Ale",3.7,"New Zealand","English Bitter"
+"Good George","IPA",5.8,"New Zealand","English IPA"
+"Good George","Drop Hop Cider",5,"New Zealand","Cider"
+"Good George","Almost Imperial American IPA",7.5,"New Zealand","American IPA"
+"Hancock & Co","Colonial Wheat Ale",4.9,"New Zealand","Hefeweizen"
+"Hancock & Co","Grand Pale Ale",4.8,"New Zealand","American Pale Ale"
+"Hancock & Co","Cardinal Red Ale",4.4,"New Zealand","American Amber / Red Ale"
+"Hancock & Co","Bismarck Brown Ale",4.8,"New Zealand","American Brown Ale"
+"Harrington's","The Pig & Whistle Mild Dark Ale",4,"New Zealand","Dark Ale"
+"Harrington's","Brewers' Selection Strong Pilsner (Anvil)",6.5,"New Zealand",
+"Harrington's","Brewers' Selection Belgium Abbey Tripel",8.8,"New Zealand",
+"Harrington's","Brewers' Selection Imperial APA",9.5,"New Zealand",
+"Harrington's","The Rogue Hop Organic Pilsner",5,"New Zealand","Pilsner"
+"Harrington's","Brewers' Selection IPA",6.5,"New Zealand",
+"Harrington's","Brewers' Selection Baltic Porter",8.5,"New Zealand",
+"Harrington's","The Classy Red Extra Special Bitter",5.2,"New Zealand","Extra Special/Strong Bitter"
+"Harrington's","The Wobbly Boot Porter",5,"New Zealand","Porter"
+"Harrington's","Brewers' Selection Weizenbock",8.5,"New Zealand",
+"James Squire","Four Wives (Pilsner)",5,"Australia","Czech Pilsener"
+"James Squire","150 Lashes (PA)",4.7,"Australia","Australian Pale Ale"
+"James Squire","Chancer (Golden Ale)",4.5,"Australia","Golden Ale"
+"James Squire","Nine Tales (Amber Ale)",5,"Australia","American Amber / Red Ale"
+"James Squire","Orchard Crush (Cloudy Apple Cider)",4.8,"Australia","Cider"
+"Kereru","Silverstream Pale Ale",3.8,"New Zealand","New Zealand Pale Ale"
+"Kereru","Hop To It Pale Ale",5.9,"New Zealand","New Zealand Pale Ale"
+"Kereru","Moonless Stout",4.2,"New Zealand","Stout"
+"Kereru","Velvet Boot",8,"New Zealand","Belgian Strong Pale Ale"
+"Liberty","Oh Brother (Pale Ale)",5.1,"New Zealand","New Zealand Pale Ale"
+"Liberty","Yakima Monster (Strong Pale Ale)",6,"New Zealand","American Pale Ale"
+"Liberty","Darkest Days (Oatmeal Stout)",6,"New Zealand","Oatmeal Stout"
+"Liberty","Yakima Scarlet (Hoppy Red Ale)",6.9,"New Zealand","American Amber / Red Ale"
+"Liberty","Sauvignon Bomb NZ Pale Ale)",7,"New Zealand","New Zealand Pale Ale"
+"Liberty","Citra (Double India Pale Ale)",9,"New Zealand",
+"Little Creatures","Pale Ale",5.2,"Australia","American Pale Ale"
+"Little Creatures","Rogers  (Ale)",3.8,"Australia","American Amber / Red Ale"
+"Little Creatures","Pilsner",4.6,"Australia","Pilsner"
+"Little Creatures","Bright Ale",4.5,"Australia","English Pale Ale"
+"Little Creatures","Mr Obadiah (Porter)",6.9,"Australia",
+"Mac's Issacs","Hop Rocker",5,"New Zealand","Pilsner"
+"Mac's Issacs","Great White",5,"New Zealand","Witbier"
+"Mac's Issacs","Sassy Red",4.5,"New Zealand","English Bitter"
+"Mac's Issacs","Black Mac",4.8,"New Zealand","Dark Ale"
+"Mac's Issacs","Cascade Parade",5.5,"New Zealand","New Zealand Pale Ale"
+"Mac's Issacs","Apple Cider",5,"New Zealand","Cider"
+"Mac's Issacs","Pear Cider",5,"New Zealand","Cider"
+"Mac's Issacs","Berry Cider",5,"New Zealand","Cider"
+"Mac's Issacs","Steinlager Light",2.5,"New Zealand","Pale Lager"
+"McCashin's- Stoke","Cirrus- Wheat Beer",5,"New Zealand",
+"McCashin's- Stoke","Paciﬁc Northwest- Double PA",5.7,"New Zealand",
+"McCashin's- Stoke","Shapeshifter- Doppelbock",9.4,"New Zealand",
+"McCashin's- Stoke","Cheeky Dark Porter",4.6,"New Zealand",
+"McCashin's- Stoke","Rochdale Lemon Honey Cider",5,"New Zealand","Cider"
+"McCashin's- Stoke","Arm Twister Imperial Stout",10,"New Zealand",
+"Monteith's","Ginger & Pear Cider",5.5,"New Zealand","Cider"
+"Monteith's","Heritage Style Cider",5,"New Zealand","Cider"
+"Monteith's","Barrel Aged Porter",6.5,"New Zealand","Porter"
+"Monteith's","India Pale Ale",5.5,"New Zealand","American IPA"
+"Monteith's","Alcoholic Ginger Beer",4.5,"New Zealand","Ginger Beer"
+"Monteith's","Unﬁltered Apricot Wheat Beer",5,"New Zealand","Hefeweizen"
+"Monteith's","Imperial Pilsner",7,"New Zealand","Pilsner"
+"Monteith's","Double Hopped IPA",7.5,"New Zealand","American IPA"
+"Mountain Goat","Hopfweizenbock",4.5,"Australia","Weizenbock"
+"Mountain Goat","RIPA- Ye IPA",4.5,"Australia",
+"Mountain Goat","Surefoot Stout",6.2,"Australia","Stout"
+"Mountain Goat","Mike's 3rd Nut",6.5,"Australia","American Brown Ale"
+"Mountain Goat","Organic Steam Ale",5.7,"Australia","California Common"
+"Mountain Goat","Hightail Ale",5,"Australia","American Amber / Red Ale"
+"Mountain Goat","IPA",6,"Australia","American IPA"
+"Old Mout Cider","Cranberry & Cider",5.8,"New Zealand","Cider"
+"Old Mout Cider","Boysencider ",5.8,"New Zealand","Cider"
+"Old Mout Cider","Feijoa & Cider",5.8,"New Zealand","Cider"
+"Old Mout Cider","Passionfruit & Cider",5.8,"New Zealand","Cider"
+"Old Mout Cider","Pear Scrumpy",8,"New Zealand","Cider"
+"Old Mout Cider","Scrumpy",8,"New Zealand","Cider"
+"Old Mout Cider","Classic Apple",4.5,"New Zealand","Cider"
+"Old Mout Cider","Crafty Pear",4.5,"New Zealand","Cider"
+"Panhead","Port Road Pilsner",5.2,"New Zealand","Pilsner"
+"Panhead","Quickchange Xtra Pale Ale",4.6,"New Zealand","New Zealand Pale Ale"
+"Panhead","Supercharger American Styled Pale Ale",5.7,"New Zealand",
+"Panhead","Black Top Oat Stout",5.5,"New Zealand","Oatmeal Stout"
+"Panhead","Bitchin IPA",7.7,"New Zealand",
+"ParrotDog","BitterBitch",5.8,"New Zealand","American IPA"
+"ParrotDog","Bloodhound",6.3,"New Zealand","American Amber / Red Ale"
+"ParrotDog","BloodyDingo",7.7,"New Zealand","Imperial / Double Red Ale"
+"ParrotDog","DeadCanary",5.3,"New Zealand","New Zealand Pale Ale"
+"ParrotDog","Dogg",3.9,"New Zealand","English Mild Ale"
+"ParrotDog","FlaxenFeather",4.7,"New Zealand","Blonde Ale"
+"ParrotDog","PitBull",7,"New Zealand","American IPA"
+"ParrotDog","Otis",6.3,"New Zealand","Oatmeal Stout"
+"Samuel Adams","Boston Lager",4.9,"United States*","Vienna Lager"
+"Samuel Adams","Boston Ale",4.8,"United States*","American Pale Ale"
+"Samuel Adams","Noble Pilsner",4.9,"United States*","Czech Pilsener"
+"Sprig & Fern","Motueka Pilsner",5,"New Zealand","Pilsner"
+"Sprig & Fern","Berry Cider",4.5,"New Zealand","Cider"
+"Sprig & Fern","Tasman Lager",6.5,"New Zealand","Golden Lager"
+"Sprig & Fern","Best Bitter",5,"New Zealand","English Bitter"
+"Sprig & Fern","Scotch Ale",6.5,"New Zealand","Scottish Ale"
+"Sprig & Fern","Doppelbock",8,"New Zealand","Doppelbock"
+"Tuatara","Pilsner",5,"New Zealand","Czech Pilsener"
+"Tuatara","Hefe Wheat Beer",5,"New Zealand","Hefeweizen"
+"Tuatara","IPA",5,"New Zealand","New Zealand Pale Ale"
+"Tuatara","NZAPA",5.8,"New Zealand","New Zealand Pale Ale"
+"Tuatara","Double Trouble US P.A",9,"New Zealand","Imperial / Double IPA"
+"Tuatara","Stout",7,"New Zealand","Stout"
+"Zeffer","Dry Apple Cider",5,"New Zealand","Cider"
+"Zeffer","Dry Pear Cider",5,"New Zealand","Cider"
+"Zeffer","Slack MA Girdle Cider",7,"New Zealand","Cider"
+"Baylands Brewery","Red Rye IPA",7,"New Zealand","Rye Beer"
+"Baylands Brewery","ENFORCER Black IPA",6,"New Zealand","Black IPA / Cascadian Dark Ale"
+"Brew Moon","Hophead IPA",5,"New Zealand","American IPA"
+"Brew Moon","Olé Molé",5,"New Zealand","Chili Beer"
+"Cassel & Sons","Milk Stout",5.3,"New Zealand","Stout"
+"Cassel & Sons","One P.A.",6.3,"New Zealand","American IPA"
+"Croucher","Nuclear Free ANZUS",7,"New Zealand","American IPA"
+"Croucher","Vicar's Vice",7,"New Zealand",
+"Funk Estate","Oh Lordy! Pale Ale",5.9,"New Zealand","New Zealand Pale Ale"
+"Funk Estate","Funk'nstein Black IPA",7,"New Zealand","Black IPA / Cascadian Dark Ale"
+"Regent ","58 IPA",6.3,"New Zealand","English IPA"
+"Regent","59 ESB",5.8,"New Zealand",
+"The Leigh Brewing Company","Pilsner",4.5,"New Zealand","Pilsner"
+"The Leigh Brewing Company","12 Gauge Strong Lager",6.5,"New Zealand","Golden Lager"
+"Wigram Brewing","Harvard Honey Ale",6,"New Zealand","English Ale "
+"Wigram Brewing","Mustang Pale Ale",5,"New Zealand","New Zealand Pale Ale"
+"Zeelandt Brewing Co","Kolsch Style",5,"New Zealand","Kölsch"
+"Zeelandt Brewing Co","Pale Ale ",5,"New Zealand",
+"Behemoth Brewing","Celia Wade Coffee Brown Ale",5.5,"New Zealand","American Brown Ale"
+"Brewaucracy","Smoko",5,"New Zealand","Rauchbier"
+"Dales Brewing","Dale's Belgian Pale Ale",5.4,"New Zealand","Belgian Pale Ale"
+"Invercargill Brewery","Pitch Black Stout",4.5,"New Zealand","Stout"
+"MOA","Methode",5,"New Zealand","Pilsner"
+"Northend Brewing","ESB",5.3,"New Zealand","Extra Special/Strong Bitter"
+"Renaissance Brewing","Stonecutter Scotch Ale",7,"New Zealand","Scotch Ale / Wee Heavy"
+"Rocky Knob Brewing","Hen Pecked Wheat",5.4,"New Zealand",
+"Shunters Yard Brewing","No. 7 Pilsner",5.2,"New Zealand","Pilsner"
+"Steam Brewing","""Return Of The Grumpy Boyz"" Porter",9,"New Zealand","Black IPA / Cascadian Dark Ale"
+"Sunshine Brewery","Gisborne Gold",4,"New Zealand","Pale Lager"
+"The Twisted Hop","Hop Back IPA",5.8,"New Zealand","American IPA"
+"Three Boys Brewery","Oyster Stout",6.5,"New Zealand","Oyster Stout"
+"Two Fingers Beers","Battering Ram-Doppel Alt (Sticke) German style dark ale",6.5,"New Zealand","Other"
+"Two Thumb Brewing","NZ Pale Ale",5.4,"New Zealand","New Zealand Pale Ale"
+"Valkyrie Brewing","Freyja (California Common)",6.6,"New Zealand",
+"Velvet Worm","Eye Of Jupiter",4.8,"New Zealand",
+"Yeastie Boys","Digital IPA",7,"New Zealand","New Zealand Pale Ale"
+"Brewcult","Acid Freaks Balsamic Baltic Porter",7.5,"Australia","Baltic Porter"
+"Bridge Road Brewers","Bling Bling",8.5,"Australia","Imperial / Double IPA"
+"Bridge Road Brewers","Chevalier Saison",6,"Australia","Saison / Farmhouse Ale"
+"Burleigh Brewing","HEF",5,"Australia","Hefeweizen"
+"Feral Brewery","HopHog",5.8,"Australia","American IPA"
+"Feral Brewery","Boris",11.5,"Australia","Russian Imperial Stout"
+"Holgate Brewhouse","Holgate Temptress",6,"Australia","Porter"
+"Matilda Bay Brewing","Alpha Pale Ale",5.2,"Australia","American Pale Ale"
+"Moo Brew","Seasonal Stout",8,"Australia","Stout"
+"Murrays","Grand Cru",8.8,"Australia","Belgian Tripel"
+"Murrays","Wild Thing",10,"Australia","American Imperial / Double Stout"
+"Nail Brewery","Clout Stout",10.6,"Australia","Russian Imperial Stout"
+"Stone & Wood Brewing","Paciﬁc Ale",4.4,"Australia",
+"The Monk","Chief",6.1,"Australia","American IPA"
+"Two Birds","Sunset Ale",4.6,"Australia","American Amber / Red Ale"
+"Two Birds","Golden Ale",4.4,"Australia","Golden Ale"
