@@ -42,6 +42,9 @@ $iconSpritePath: '/images/glyphicons-halflings.png';
     g.tick.major line{
         stroke: #000;
     }
+    text.label{
+      text-anchor: middle;
+    }
   }
 }
 

@@ -8,12 +8,24 @@ define ["d3", "underscore"], (d3, _)->
       @paper = @svg.append("g")
         .attr("transform", "translate(0,50)")
 
+      @axis_format = d3.format(".1f")
+
       @svg.append("g")
         .attr("class", 'top_axis')
         .attr("transform", "translate(220,40)")
 
+      @svg.select("g.top_axis").append("text")
+        .attr("class","label")
+        .attr("transform", "translate(350,-30)")
+        .text("Alcohol by volume (ABV)")
+
       @svg.append("g")
         .attr("class", 'bottom_axis')
+
+      @svg.select("g.bottom_axis").append("text")
+        .attr("class","label")
+        .attr("transform", "translate(350,35)")
+        .text("Alcohol by volume (ABV)")
 
       @x_scale = d3.scale.linear()
         .range([0,700])
@@ -81,15 +93,21 @@ define ["d3", "underscore"], (d3, _)->
       height =  data.length*20 + 100
       @svg.attr("height", height)
 
+      if data.length < 2
+        @svg.selectAll("text.label").style("visibility","hidden")
+      else
+        @svg.selectAll("text.label").style("visibility","visible")
+
+
       top_axis = d3.svg.axis()
         .scale(@x_scale)
         .orient("top")
-        .tickFormat(d3.format(".1f"))
+        .tickFormat((d)=>@axis_format(d)+"%")
 
       bottom_axis = d3.svg.axis()
         .scale(@x_scale)
         .orient("bottom")
-        .tickFormat(d3.format(".1f"))
+        .tickFormat((d)=>@axis_format(d)+"%")
 
       d3.select("g.top_axis").call(top_axis)
       d3.select("g.bottom_axis")
@@ -101,12 +119,17 @@ define ["d3", "underscore"], (d3, _)->
       new_rows = rows.enter()
         .append("g")
         .attr("class", "row")
+
       new_rows.append("text")
         .attr("class","brewery-name")
       new_rows.append("g")
         .attr("class", "circles")
 
-      rows.exit().remove()
+      rows.exit()
+        .transition()
+        .duration(300)
+        .style("opacity", 0)
+        .remove()
 
       rows
         .transition()
